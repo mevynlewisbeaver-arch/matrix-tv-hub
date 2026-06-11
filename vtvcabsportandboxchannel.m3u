@@ -219,6 +219,14 @@ https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
 
+#GROUP: SCTV
+#EXTINF:0 group-title="SCTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png",SCTV15 - SSportT2
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=823
+#EXTINF:0 group-title="SCTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/db/bd/dd/dd/dc/cc/dbddd-psctv17ssport-channel-unkn.png",SCTV17 - Ssport
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=826
+#EXTINF:0 group-title="SCTV" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png",SCTV 22 - SSportT1
+http://cdn1.aismile.dpdns.org:2052/mytv/getabc.php?id=829
+
 #GROUP: BOX
 #EXTINF:-1 tvg-id="boxmovie1" group-title="BOX" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png", Box Movie 1
 #EXTVLCOPT:http-user-agent="CloudTV"
